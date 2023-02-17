@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\bin\Debug\netcoreapp3.1\ElevarNumeroMenor.exe
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\bin\Debug\netcoreapp3.1\ElevarNumeroMenor.deps.json
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\bin\Debug\netcoreapp3.1\ElevarNumeroMenor.runtimeconfig.json
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\bin\Debug\netcoreapp3.1\ElevarNumeroMenor.runtimeconfig.dev.json
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\bin\Debug\netcoreapp3.1\ElevarNumeroMenor.dll
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\bin\Debug\netcoreapp3.1\ElevarNumeroMenor.pdb
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\obj\Debug\netcoreapp3.1\ElevarNumeroMenor.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\obj\Debug\netcoreapp3.1\ElevarNumeroMenor.Form1.resources
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\obj\Debug\netcoreapp3.1\ElevarNumeroMenor.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\obj\Debug\netcoreapp3.1\ElevarNumeroMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\obj\Debug\netcoreapp3.1\ElevarNumeroMenor.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\obj\Debug\netcoreapp3.1\ElevarNumeroMenor.AssemblyInfo.cs
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\obj\Debug\netcoreapp3.1\ElevarNumeroMenor.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\obj\Debug\netcoreapp3.1\ElevarNumeroMenor.dll
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\obj\Debug\netcoreapp3.1\ElevarNumeroMenor.pdb
+C:\Users\USER\source\repos\ElevarNumeroMenor\ElevarNumeroMenor\obj\Debug\netcoreapp3.1\ElevarNumeroMenor.genruntimeconfig.cache

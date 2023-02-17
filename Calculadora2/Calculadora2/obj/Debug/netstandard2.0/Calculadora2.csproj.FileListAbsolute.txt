@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Calculadora2\Calculadora2\bin\Debug\netstandard2.0\Calculadora2.deps.json
+C:\Users\USER\source\repos\Calculadora2\Calculadora2\bin\Debug\netstandard2.0\Calculadora2.dll
+C:\Users\USER\source\repos\Calculadora2\Calculadora2\bin\Debug\netstandard2.0\Calculadora2.pdb
+C:\Users\USER\source\repos\Calculadora2\Calculadora2\obj\Debug\netstandard2.0\Calculadora2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Calculadora2\Calculadora2\obj\Debug\netstandard2.0\Calculadora2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Calculadora2\Calculadora2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\source\repos\Calculadora2\Calculadora2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USER\source\repos\Calculadora2\Calculadora2\obj\Debug\netstandard2.0\Calculadora2.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Calculadora2\Calculadora2\obj\Debug\netstandard2.0\Calculadora2.AssemblyInfo.cs
+C:\Users\USER\source\repos\Calculadora2\Calculadora2\obj\Debug\netstandard2.0\Calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Calculadora2\Calculadora2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USER\source\repos\Calculadora2\Calculadora2\obj\Debug\netstandard2.0\Calculadora2.dll
+C:\Users\USER\source\repos\Calculadora2\Calculadora2\obj\Debug\netstandard2.0\refint\Calculadora2.dll
+C:\Users\USER\source\repos\Calculadora2\Calculadora2\obj\Debug\netstandard2.0\Calculadora2.pdb
+C:\Users\USER\source\repos\Calculadora2\Calculadora2\obj\Debug\netstandard2.0\ref\Calculadora2.dll

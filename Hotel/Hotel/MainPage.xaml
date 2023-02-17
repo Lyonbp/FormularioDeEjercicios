@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hotel.MainPage">
+
+    <Grid BackgroundColor="{StaticResource colorPrimary}">
+
+        <Grid Grid.Row="0" Margin="0,0,0,0">
+            <StackLayout>
+                <Frame BackgroundColor="#2196F3" Padding="20" CornerRadius="0">
+                    <Label Text="Bienvenido" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+                </Frame>
+            </StackLayout>
+        </Grid>
+
+
+        <Grid Grid.Row="1" Margin="20,20,20,20">
+            <StackLayout>
+                <Button Text="Hotel" x:Name="btnhotel"
+                        TextColor="SandyBrown"
+                        BackgroundColor="AliceBlue"
+                        BorderColor="Beige"
+                        BorderWidth="3"
+                        CornerRadius="40"
+                       Clicked="btnhotel_Clicked"></Button>
+            </StackLayout>
+
+        </Grid>
+
+        <Grid Grid.Row="2" Margin="20,20,20,20">
+            <StackLayout>
+                <Button Text="Colchones Paraiso" x:Name="btncolchon"
+                        TextColor="SandyBrown"
+                        BackgroundColor="Cyan"
+                        BorderColor="Beige"
+                        BorderWidth="3"
+                        CornerRadius="40"
+                        Clicked="btncolchon_Clicked"></Button>
+            </StackLayout>
+
+        </Grid>
+
+        <Grid Grid.Row="3" Margin="20,20,20,20">
+            <StackLayout>
+                <Button Text="Tr1" x:Name="btntr"
+                        TextColor="SandyBrown"
+                        BackgroundColor="DarkBlue"
+                        BorderColor="Beige"
+                        BorderWidth="3"
+                        CornerRadius="40"
+                        Clicked="btntr_Clicked"></Button>
+            </StackLayout>
+
+        </Grid>
+
+        <Grid Grid.Row="4" Margin="20,20,20,20">
+            <StackLayout>
+                <Button Text="Salir" x:Name="btnsalir"
+                        TextColor="SandyBrown"
+                        BackgroundColor="{StaticResource colorPrimaryDark}"
+                        BorderColor="Beige"
+                        BorderWidth="3"
+                        CornerRadius="40"
+                        Clicked="btnsalir_Clicked"></Button>
+            </StackLayout>
+
+
+        </Grid>
+
+
+
+
+
+    </Grid>
+
+</ContentPage>

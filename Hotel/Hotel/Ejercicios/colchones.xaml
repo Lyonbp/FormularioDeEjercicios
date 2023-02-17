@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hotel.Ejercicios.colchones">
+    <Grid BackgroundColor="{StaticResource colorPrimary}">
+
+        <Grid Grid.Row="0" Margin="0,0,0,0" >
+            <StackLayout>
+                <Frame BackgroundColor="#2196F3" Padding="10" CornerRadius="0">
+                    <Label Text="Colchones Paraiso" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+                </Frame>
+            </StackLayout>
+        </Grid>
+
+        <Grid Grid.Row="1" Margin="0,0,0,0">
+            <Entry Placeholder="Ingrese Nombres" x:Name="txtname"
+                   TextColor="{StaticResource negro}"
+                   Keyboard="Text"
+                   HorizontalOptions="FillAndExpand"></Entry>
+
+        </Grid>
+        <Grid Grid.Row="2" Margin="0,0,0,0">
+
+            <Entry Placeholder="Ingrese Apellido Paterno" x:Name="txtapep"
+                   TextColor="{StaticResource negro}"
+                   Keyboard="Text"
+                   HorizontalOptions="FillAndExpand"></Entry>
+
+        </Grid>
+
+        <Grid Grid.Row="3" Margin="0,0,0,0">
+
+            <Entry Placeholder="Ingrese Apellido Materno" x:Name="txtapem"
+                   TextColor="{StaticResource negro}"
+                   Keyboard="Text"
+                   HorizontalOptions="FillAndExpand"></Entry>
+
+        </Grid>
+
+        <Grid Grid.Row="4" Margin="0,0,0,0">
+            <StackLayout>
+                <Label Text="Tipo de Producto: "></Label>
+                <Picker x:Name="pickerope" SelectedIndexChanged="pickerope_SelectedIndexChanged"/>
+            </StackLayout>
+        </Grid>
+
+        <Grid Grid.Row="5" Margin="0,0,0,0">
+            <StackLayout>
+                <Label Text="Categoria Del Cliente: "></Label>
+                <Picker x:Name="categoria" SelectedIndexChanged="categoria_SelectedIndexChanged"/>
+            </StackLayout>
+        </Grid>
+
+        <Grid Grid.Row="6" Margin="0,0,0,0">
+
+            <Entry Placeholder="Ingrese Cantidad" x:Name="cantidad"
+                   TextColor="{StaticResource negro}"
+                   Keyboard="Numeric"
+                   HorizontalOptions="FillAndExpand"></Entry>
+
+        </Grid>
+
+        <Grid Grid.Row="7" Margin="0,0,0,0">
+
+            <Entry Placeholder="Tipo de Venta" x:Name="lblventa"
+                   TextColor="{StaticResource negro}"
+                   IsEnabled="False"
+                   HorizontalOptions="FillAndExpand"></Entry>
+
+
+        </Grid>
+
+        <Grid Grid.Row="8" Margin="0,0,0,0">
+
+            <Entry Placeholder="Descuento" x:Name="lbldescuento"
+                   TextColor="{StaticResource negro}"
+                   IsEnabled="False"
+                   HorizontalOptions="FillAndExpand"></Entry>
+
+
+        </Grid>
+
+        <Grid Grid.Row="9" Margin="0,0,0,0">
+
+            <Entry Placeholder="Precio Total" x:Name="lbltotal"
+                   TextColor="{StaticResource negro}"
+                   IsEnabled="False"
+                   HorizontalOptions="FillAndExpand"></Entry>
+
+
+        </Grid>
+
+        <Grid Grid.Row="10" Margin="0,0,0,0">
+            <StackLayout>
+                <Button Text="Calcular" x:Name="btnoperation"
+                        TextColor="SandyBrown"
+                        BackgroundColor="AliceBlue"
+                        BorderColor="Pink"
+                        BorderWidth="3"
+                        CornerRadius="40"
+                       Clicked="btnoperation_Clicked"></Button>
+            </StackLayout>
+
+        </Grid>
+
+        <Grid Grid.Row="11" Margin="0,0,0,0">
+            <StackLayout>
+                <Button Text="Nuevo" x:Name="btnnuevo"
+                        TextColor="SandyBrown"
+                        BackgroundColor="DarkCyan"
+                        BorderColor="Pink"
+                        BorderWidth="3"
+                        CornerRadius="40"
+                        Clicked="btnnuevo_Clicked" ></Button>
+            </StackLayout>
+
+        </Grid>
+    </Grid>
+</ContentPage>

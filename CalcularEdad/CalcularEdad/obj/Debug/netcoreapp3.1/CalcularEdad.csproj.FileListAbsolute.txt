@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\bin\Debug\netcoreapp3.1\CalcularEdad.exe
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\bin\Debug\netcoreapp3.1\CalcularEdad.deps.json
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\bin\Debug\netcoreapp3.1\CalcularEdad.runtimeconfig.json
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\bin\Debug\netcoreapp3.1\CalcularEdad.runtimeconfig.dev.json
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\bin\Debug\netcoreapp3.1\CalcularEdad.dll
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\bin\Debug\netcoreapp3.1\CalcularEdad.pdb
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.Form1.resources
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.AssemblyInfo.cs
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.dll
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.pdb
+C:\Users\USER\source\repos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.genruntimeconfig.cache

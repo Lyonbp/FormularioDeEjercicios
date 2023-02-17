@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Calcular IMC\Calcular IMC\bin\Debug\netstandard2.0\Calcular IMC.deps.json
+C:\Users\USER\source\repos\Calcular IMC\Calcular IMC\bin\Debug\netstandard2.0\Calcular IMC.dll
+C:\Users\USER\source\repos\Calcular IMC\Calcular IMC\bin\Debug\netstandard2.0\Calcular IMC.pdb
+C:\Users\USER\source\repos\Calcular IMC\Calcular IMC\obj\Debug\netstandard2.0\Calcular IMC.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Calcular IMC\Calcular IMC\obj\Debug\netstandard2.0\Calcular IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Calcular IMC\Calcular IMC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\source\repos\Calcular IMC\Calcular IMC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USER\source\repos\Calcular IMC\Calcular IMC\obj\Debug\netstandard2.0\Calcular IMC.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Calcular IMC\Calcular IMC\obj\Debug\netstandard2.0\Calcular IMC.AssemblyInfo.cs
+C:\Users\USER\source\repos\Calcular IMC\Calcular IMC\obj\Debug\netstandard2.0\Calcular IMC.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Calcular IMC\Calcular IMC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USER\source\repos\Calcular IMC\Calcular IMC\obj\Debug\netstandard2.0\Calcular IMC.dll
+C:\Users\USER\source\repos\Calcular IMC\Calcular IMC\obj\Debug\netstandard2.0\refint\Calcular IMC.dll
+C:\Users\USER\source\repos\Calcular IMC\Calcular IMC\obj\Debug\netstandard2.0\Calcular IMC.pdb
+C:\Users\USER\source\repos\Calcular IMC\Calcular IMC\obj\Debug\netstandard2.0\ref\Calcular IMC.dll

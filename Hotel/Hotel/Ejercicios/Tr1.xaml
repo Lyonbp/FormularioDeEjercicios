@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hotel.Ejercicios.Tr1">
+    <StackLayout>
+        <Label Text="Registro De Actividades"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"/>
+        <Entry x:Name="txtIdActividades" IsVisible="False"/>
+        <Entry x:Name="txtActividad1" Placeholder="Actividad1"/>
+        <Entry x:Name="txtActividad2" Placeholder="Actividad2"/>
+        <Entry x:Name="txtActividad3" Placeholder="Actividad3"/>
+        <Entry x:Name="txtActividad4" Placeholder="Actividad4"/>
+        <Entry x:Name="txtActividad5" Placeholder="Actividad5"/>
+        <Entry x:Name="txtActividad6" Placeholder="Actividad6"/>
+        <Entry x:Name="txtActividad7" Placeholder="Actividad7"/>
+        <Entry x:Name="txtActividad8" Placeholder="Actividad8"/>
+        <Entry x:Name="txtActividad9" Placeholder="Actividad9"/>
+        <Entry x:Name="txtActividad10" Placeholder="Actividad10"/>
+        <Button x:Name="btnRegistrar" Text="Registrar Actividades" Clicked="btnRegistrar_Clicked"/>
+        <Button x:Name="btnActualizar" Text="Actualizar" Clicked="btnActualizar_Clicked" IsVisible="False"/>
+        <Button x:Name="btnEliminar" Text="Eliminar" Clicked="btnEliminar_Clicked" IsVisible="False"/>
+        <ListView x:Name="lstActividades" ItemSelected="lstActividades_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="{Binding IdActividad}" Grid.Row="0" Grid.Column="0" TextColor="Blue"/>
+                            <Label Text="{Binding Actividad1}" Grid.Row="0" Grid.Column="1" TextColor="Gray"/>
+                            <Label Text="{Binding Actividad2}" Grid.Row="0" Grid.Column="2" TextColor="Gray"/>
+                            <Label Text="{Binding Actividad3}" Grid.Row="0" Grid.Column="3" TextColor="Gray"/>
+                            <Label Text="{Binding Actividad4}" Grid.Row="0" Grid.Column="4" TextColor="Gray"/>
+                            <Label Text="{Binding Actividad5}" Grid.Row="0" Grid.Column="5" TextColor="Gray"/>
+                            <Label Text="{Binding Actividad6}" Grid.Row="0" Grid.Column="6" TextColor="Gray"/>
+                            <Label Text="{Binding Actividad7}" Grid.Row="0" Grid.Column="7" TextColor="Gray"/>
+                            <Label Text="{Binding Actividad8}" Grid.Row="0" Grid.Column="8" TextColor="Gray"/>
+                            <Label Text="{Binding Actividad9}" Grid.Row="0" Grid.Column="9" TextColor="Gray"/>
+                            <Label Text="{Binding Actividad10}" Grid.Row="0" Grid.Column="10" TextColor="Gray"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>
